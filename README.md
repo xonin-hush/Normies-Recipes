@@ -1,1 +1,1 @@
-# Normies-Recipies
+# Normies-Recipes
