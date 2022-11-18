@@ -2,3 +2,12 @@
     font-family: 'Nunito Sans', sans-serif;
 }
 
+#title {
+    font-size: 48px;
+    text-align: center;
+}
+
+.center {
+    font-size: 30px;
+    text-align: center;
+}
