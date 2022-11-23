@@ -1,0 +1,10 @@
+.bt{
+    background-color: lightskyblue;
+    font-size: larger;
+    color: white;
+}
+
+.pic-size {
+    height: auto;
+    width: 300px;
+}

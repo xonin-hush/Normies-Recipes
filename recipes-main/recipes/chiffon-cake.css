@@ -6,3 +6,9 @@
     height: auto;
     width: 300px;
 }
+
+.bt{
+    background-color: lightskyblue;
+    font-size: larger;
+    color: white;
+}

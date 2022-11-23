@@ -12,7 +12,17 @@
     text-align: center;
 }
 
-#banner1 {
-    width: auto;
+.banner {
+    width: 100%;
     height: auto;
+}
+
+.banner-container {
+    object-fit: fit;
+}
+
+.bt{
+    background-color: lightskyblue;
+    font-size: x-large;
+    color: white;
 }

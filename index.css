@@ -10,7 +10,11 @@
     font-family: 'Nunito Sans', sans-serif;
 }
 
-#banner2 {
-    width: auto;
+.banner {
+    width: 100%;
     height: auto;
+}
+
+.banner-container {
+    object-fit: fit;
 }
